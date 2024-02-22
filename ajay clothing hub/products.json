@@ -1,0 +1,86 @@
+[{
+    "_id": {
+      "$oid": "6576b6fddf3ea5c480bcfdf5"
+    },
+    "id": 1,
+    "image": "https://5.imimg.com/data5/ANDROID/Default/2021/7/PB/XW/VK/72744012/img-20210704-wa0016-jpg.jpg",
+    "category": "ZARA Men Shirts",
+    "price": 1799,
+    "__v": 0
+  },
+
+  {
+    "_id": {
+      "$oid": "6577d7df1c1e1b8041dcd8a3"
+    },
+    "id": 2,
+    "image": "https://images.livemint.com/img/2021/05/15/1140x641/371694927_0-5_1621066231011_1621066267416.jpg",
+    "category": "Jackets",
+    "price": 1799,
+    "__v": 0
+  },
+
+  {
+    "_id": {
+      "$oid": "6577d9141c1e1b8041ddc175"
+    },
+    "id": 3,
+    "image": "https://static.zara.net/photos///2023/I/0/2/p/0761/350/807/2/w/563/0761350807_2_1_1.jpg?ts=1699948394201",
+    "category": "HOODIE",
+    "price": 2799,
+    "__v": 0
+  },
+
+  {
+    "_id": {
+      "$oid": "6577eaa51c1e1b8041e17321"
+    },
+    "id": 4,
+    "image": "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/12288700/2021/10/21/1add2cf0-4826-441f-ae20-0cca69b899fd1634814726781-Roadster-Men-Blue-Washed-Denim-Jacket-6691634814726272-1.jpg",
+    "category": "Denim jacket",
+    "price": 2999,
+    "__v": 0
+  },
+
+  {
+    "_id": {
+      "$oid": "6577eba51c1e1b8041e203e5"
+    },
+    "id": 5,
+    "image": "https://img.kwcdn.com/product/Fancyalgo/VirtualModelMatting/6430c78a2198100b8be6531e7f90fbbb.jpg?imageView2/2/w/500/q/60/format/webp",
+    "category": "TR Jeans",
+    "price": 1299,
+    "__v": 0
+  },
+
+  {
+    "_id": {
+      "$oid": "6577eedeaf9d4458142e87e3"
+    },
+    "id": 7,
+    "image": "https://poedagar.store/wp-content/uploads/2022/03/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210529180922-1.jpg",
+    "category": "Watches",
+    "price": 4999,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6577ef4caf9d4458142ebb37"
+    },
+    "id": 8,
+    "image": "https://down-ph.img.susercontent.com/file/b575f771c6c4393646cfa6effd09ea38",
+    "category": "Caps",
+    "price": 749,
+    "__v": 0
+  },
+
+  {
+    "_id": {
+      "$oid": "6577eff7af9d4458142f05f2"
+    },
+    "id": 9,
+    "image": "https://img.etimg.com/thumb/width-1200,height-1200,imgsize-33568,resizemode-75,msid-102735720/top-trending-products/lifestyle/7-best-sneakers-for-men-under-2000-for-ultimate-comfort-and-style.jpg",
+    "category": "Caps",
+    "price": 1599,
+    "__v": 0
+  }]
